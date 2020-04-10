@@ -12,7 +12,7 @@ class WXMenuFormField extends Field
         'vendor/laravel-admin-ext/wxmenu/css/style.min.css'
     ];
     protected static $js = [
-        'https://cdn.jsdelivr.net/npm/vue',
+        'https://cdn.bootcss.com/vue/2.6.11/vue.min.js',
         'vendor/laravel-admin-ext/wxmenu/js/index.min.js'
     ];
 
